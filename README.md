@@ -185,7 +185,7 @@ def detect_brute_force(logs, threshold=5, window_seconds=60):
 ## 🔗 Connect
 
 - **LinkedIn:** [Khant Zaw Hein](https://www.linkedin.com/in/khant-zaw-hein-ba0173197/)
-- **TryHackMe:** *(add your profile URL here)*
+- **TryHackMe:** [Khant Zaw Hein](https://tryhackme.com/p/khantzawhein261)
 
 ---
 
